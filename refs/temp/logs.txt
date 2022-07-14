@@ -1,8 +1,0 @@
-first_log1
-first_log2
-first_log3
-first_log4
-first_log5
-first_log6
-
-first_log7
